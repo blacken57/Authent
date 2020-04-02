@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "698565463188",
+    "firebase_url": "https://authent-80b0d.firebaseio.com",
+    "project_id": "authent-80b0d",
+    "storage_bucket": "authent-80b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698565463188:android:dd75b2fcc7ea979fae3881",
+        "android_client_info": {
+          "package_name": "com.example.authent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698565463188-94fr0jhnifemer3nk6q8trstflf3i3a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD28EdEqTux0plTlYZC6Xbxflx_Ef5SnHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698565463188-94fr0jhnifemer3nk6q8trstflf3i3a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
